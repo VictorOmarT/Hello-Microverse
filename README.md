@@ -3,7 +3,7 @@
 
 # Hello Microverse
 
-> First Proyect .
+> First Project .
 
 
 
