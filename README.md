@@ -3,9 +3,7 @@
 
 # Hello Microverse
 
-> First Proyect .
-
-
+> First Project
 
 ## Built With
 
@@ -36,5 +34,7 @@ Give a ⭐️ if you like this project!
 - etc
 
 ## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
 
 
