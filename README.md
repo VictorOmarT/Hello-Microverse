@@ -19,7 +19,6 @@
 👤 **Victor Omar Toraño**
 
 - GitHub: [@VictorOmarT](https://github.com/VictorOmarT)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/victoromartm/)
 
 
